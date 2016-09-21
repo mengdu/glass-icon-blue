@@ -1,0 +1,4 @@
+
+请把imageres.dll替换C:\Windows\System32中的imageres.dll
+
+然后执行以管理员方式执行“清楚win7图标缓存.bat”，如果没效果请重启电脑。
